@@ -2,13 +2,13 @@
 ## Try it 
 https://geminigit-7mms8thxgmdosyt83eor4x.streamlit.app/
 
-Choose the analysis mode:
+## Choose the analysis mode:
 
 Text-based Q&A
 
 Image-based Q&A
 
-##Instructions
+## Instructions
 
 Select the analysis mode above.
 
